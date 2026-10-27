@@ -1,0 +1,7 @@
+# Deploy on Python 3.12, as selected in Streamlit Community Cloud Advanced settings.
+streamlit>=1.45,<2
+pandas>=2.2,<3
+numpy>=1.26,<2
+scikit-learn==1.6.1
+joblib>=1.4,<2
+plotly>=5.24,<7
